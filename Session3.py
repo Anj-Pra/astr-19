@@ -12,6 +12,7 @@ def f(x): # do some math
 def main(): # main function
     x = 9
     result = f(x)
+    print(result)
     if result > 27:
         print("YAY!")
 
