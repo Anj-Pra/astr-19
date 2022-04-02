@@ -1,4 +1,4 @@
-# Session 2 Prompt
+# Session 3 Prompt
 
 # Write a Python program that defines a function f(x) 
 # that returns x**3 + 8. In the main function of the 
